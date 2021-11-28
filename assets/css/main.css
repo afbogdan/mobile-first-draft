@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Black Han Sans', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  background-color: #e74c3c;
+  color: white;
+  padding: 4vw;
+}
+
+footer section {
+  margin: 1rem 0;
+}
+
+footer section * {
+  margin: 0.4rem 0;
+}
+
+.background-image-cover {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
