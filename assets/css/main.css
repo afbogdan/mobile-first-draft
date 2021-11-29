@@ -37,7 +37,7 @@ ul {
 }
 
 footer {
-  background-color: #e74c3c;
+  background-color: var(--red);
   color: white;
   padding: 4vw;
 }
